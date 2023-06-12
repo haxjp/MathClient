@@ -30,7 +30,7 @@ int main()
 			if (yesno == "y" || yesno == "Y") {
 				main();
 			}
-			if (yesno == "n" || yesno == "n") {
+			if (yesno == "n" || yesno == "N") {
 				return 0;
 			}
 		}
